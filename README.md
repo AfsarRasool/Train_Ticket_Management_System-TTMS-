@@ -9,4 +9,7 @@
 2. Functions  
 3.Basic Libraries (stdio.h/stdlib.h/string.h)  
 4.Filing  
-![Alt Text](Project Images/1.png)
+![Alt Text](Project Images/1.png)  
+![Alt Text](https://github.com/AfsarRasool/Train_Ticket_Management_System-TTMS-/raw/main/Project%20Images/1.png)
+
+
